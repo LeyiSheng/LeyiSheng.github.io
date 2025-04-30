@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "ch-China"
+locale                   : "ch-CN"
 site_theme               : "default"
 title                    : "盛乐一 / Site Title"
 title_separator          : "-"
@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Hong Kong University of Technology and Science(GuangZhou)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lsheng847@connect.hkust-gz.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "LeyiSheng"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

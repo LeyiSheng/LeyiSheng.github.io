@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "ch-CN"
+locale                   : "zh-CN"
 site_theme               : "default"
 title                    : "盛乐一 / Academic page"
 title_separator          : "-"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ./images/证件照.jpg
+  avatar           : /images/profile.jpg
   name             : "Leyi Sheng"
   pronouns         : "he/him"  
   bio              : "A UG student studying multi-modality and machine learning"

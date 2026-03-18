@@ -25,7 +25,7 @@ author:
   avatar           : profile.jpg
   name             : "Leyi Sheng"
   pronouns         : "he/him"  
-  bio              : "A UG student studying multi-modality and machine learning"
+  bio              : "A UG student studying multi-modality, AI security and AI for security"
   location         : "GuangZhou, China"
   employer         : "Hong Kong University of Technology and Science(GuangZhou)"
   uri              : # URL
@@ -214,16 +214,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

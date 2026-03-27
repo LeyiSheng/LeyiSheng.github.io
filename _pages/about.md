@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: single
+layout: archive
 title: "盛乐一"
 author_profile: true
 redirect_from: 

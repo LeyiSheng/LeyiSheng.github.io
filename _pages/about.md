@@ -11,13 +11,20 @@ redirect_from:
 Personal Biography
 ======
 
-I am a UG student studying multi-modality, AI security and AI for security at **Hong Kong University of Science and Technology (Guangzhou)**.
+I am an undergraduate student at **Hong Kong University of Science and Technology (Guangzhou)**, working on multimodal security, AI safety, and AI for security.
 
-My research focuses on making AI systems more robust and secure, with a particular interest in multi-modal learning environments.
+My research focuses on making AI systems more robust and secure, with a particular interest in multimodal learning environments.
+
+Research Interests
+======
+* Multimodal security
+* AI safety
+* Image protection and steganalysis
+* AI for security
 
 Selected Publications
 ======
-{% for post in site.publications limit:3 %}
+{% for post in site.publications reversed limit:3 %}
   {% include archive-single.html %}
 {% endfor %}
 

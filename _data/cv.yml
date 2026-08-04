@@ -1,0 +1,26 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Leyi Sheng
+    - name: Affiliation
+      value: Hong Kong University of Science and Technology (Guangzhou)
+    - name: Location
+      value: Guangzhou, China
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Undergraduate Student
+      institution: Hong Kong University of Science and Technology (Guangzhou)
+      year: Present
+      description:
+        - Research in multimodal security, AI safety, and AI for security.
+
+- title: Research Interests
+  type: list
+  contents:
+    - Multimodal security
+    - AI safety
+    - Image protection and steganalysis
+    - AI for security

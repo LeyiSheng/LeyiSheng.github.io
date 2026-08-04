@@ -15,12 +15,12 @@
       institution: Hong Kong University of Science and Technology (Guangzhou)
       year: Present
       description:
-        - Research in multimodal security, AI safety, and AI for security.
+        - Research in AI safety, AI for safety, multimodal security, and image protection.
 
 - title: Research Interests
   type: list
   contents:
-    - Multimodal security
+    - AI for safety
     - AI safety
     - Image protection and steganalysis
-    - AI for security
+    - Multimodal security

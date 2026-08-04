@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Research on multimodal security, AI safety, and AI for security.
+description: Research on AI safety, AI for safety, multimodal security, and image protection.
 nav: true
 nav_order: 2
 ---

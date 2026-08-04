@@ -9,7 +9,12 @@ profile:
   image: profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Guangzhou, China</p>
+    <div class="profile-details">
+      <p><i class="fa-solid fa-user" aria-hidden="true"></i><span>he/him</span></p>
+      <p><i class="fa-solid fa-building-columns" aria-hidden="true"></i><a href="https://www.hkust-gz.edu.cn/">HKUST(GZ)</a></p>
+      <p><i class="fa-solid fa-location-dot" aria-hidden="true"></i><span>Guangzhou, China</span></p>
+      <p><i class="fa-solid fa-envelope" aria-hidden="true"></i><a href="mailto:lsheng847@connect.hkust-gz.edu.cn">Email</a></p>
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,13 +30,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at the **Hong Kong University of Science and Technology (Guangzhou)**, working on multimodal security, AI safety, and AI for security.
+I am an undergraduate student at the <span class="theme-highlight">Hong Kong University of Science and Technology (Guangzhou)</span>, working on <span class="theme-highlight">multimodal security</span>, AI safety, and AI for security.
 
 My research focuses on making AI systems more robust and secure, with a particular interest in multimodal learning environments.
 
 ## Research interests
 
-- Multimodal security
-- AI safety
+- <span class="theme-highlight">Multimodal security</span>
+- <span class="theme-highlight">AI safety</span>
 - Image protection and steganalysis
 - AI for security

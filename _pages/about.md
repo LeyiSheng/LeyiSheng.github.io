@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate at <a href='https://www.hkust-gz.edu.cn/'>HKUST(GZ)</a>
+subtitle: Undergraduate student at <a href='https://www.hkust-gz.edu.cn/'>HKUST(GZ)</a>
 
 profile:
   align: right
@@ -30,9 +30,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at the <span class="theme-highlight">Hong Kong University of Science and Technology (Guangzhou)</span>, working on <span class="theme-highlight">AI safety, and AI for safety</span>.
+I am an undergraduate student at the <span class="theme-highlight">Hong Kong University of Science and Technology (Guangzhou)</span>, with research interests in <span class="theme-highlight">AI safety and AI for safety</span>.
 
-My research focuses on making AI systems more robust and secure, and training AI to achieve this goal.
+My research focuses on developing more robust and secure AI systems and training AI models to improve safety in practice.
 
 ## Research interests
 

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate researcher at <a href='https://www.hkust-gz.edu.cn/'>HKUST(GZ)</a>
+subtitle: Undergraduate at <a href='https://www.hkust-gz.edu.cn/'>HKUST(GZ)</a>
 
 profile:
   align: right
@@ -30,13 +30,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at the <span class="theme-highlight">Hong Kong University of Science and Technology (Guangzhou)</span>, working on <span class="theme-highlight">multimodal security</span>, AI safety, and AI for security.
+I am an undergraduate student at the <span class="theme-highlight">Hong Kong University of Science and Technology (Guangzhou)</span>, working on <span class="theme-highlight">AI safety, and AI for safety</span>.
 
-My research focuses on making AI systems more robust and secure, with a particular interest in multimodal learning environments.
+My research focuses on making AI systems more robust and secure, and training AI to achieve this goal.
 
 ## Research interests
 
-- <span class="theme-highlight">Multimodal security</span>
+- <span class="theme-highlight">AI for safety</span>
 - <span class="theme-highlight">AI safety</span>
 - Image protection and steganalysis
-- AI for security
+- Multimodal security

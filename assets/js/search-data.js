@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Research on multimodal security, AI safety, and AI for security.",
+          description: "Research on AI safety, AI for safety, multimodal security, and image protection.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";

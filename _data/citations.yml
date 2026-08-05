@@ -1,1 +1,15 @@
-{}
+metadata:
+  last_updated: '2026-08-05'
+papers:
+  a650CIwAAAAJ:d1gkVwhDpl0C:
+    citations: 0
+    title: 'PixJail: Self-Evolving Paper-to-Pipeline Reproduction for Text-to-Image Jailbreak Evaluation'
+    year: '2026'
+  a650CIwAAAAJ:u-x6o8ySG0sC:
+    citations: 0
+    title: 'Stego Battlefield: Evaluating Image Steganography Attacks and Steganalysis Defenses'
+    year: '2026'
+  a650CIwAAAAJ:u5HHmVD_uO8C:
+    citations: 0
+    title: 'IP-Bench: Benchmark for Image Protection Methods in Image-to-Video Generation Scenarios'
+    year: '2026'

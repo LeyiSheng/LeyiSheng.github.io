@@ -30,13 +30,41 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student at the <span class="theme-highlight">Hong Kong University of Science and Technology (Guangzhou)</span>, with research interests in <span class="theme-highlight">AI safety and AI for safety</span>.
-
-My research focuses on developing more robust and secure AI systems and training AI models to improve safety in practice.
+<div class="home-intro">
+  <p>I am an undergraduate student at the <span class="theme-highlight">Hong Kong University of Science and Technology (Guangzhou)</span>, working at the intersection of <span class="theme-highlight">AI safety</span> and <span class="theme-highlight">AI for safety</span>.</p>
+  <p>My research focuses on making AI systems more robust and secure, and on using AI to advance safety in practice.</p>
+</div>
 
 ## Research interests
 
-- <span class="theme-highlight">AI for safety</span>
-- <span class="theme-highlight">AI safety</span>
-- Image protection and steganalysis
-- Multimodal security
+<div class="research-tags" aria-label="Research interests">
+  <span>AI for safety</span>
+  <span>AI safety</span>
+  <span>Image protection &amp; steganalysis</span>
+  <span>Multimodal security</span>
+</div>
+
+## Selected research
+
+<div class="research-grid">
+  <article class="research-item">
+    <p class="research-item__meta">Text-to-image safety · 2026</p>
+    <h3><a href="/publication/2026-06-23-PixJail">PixJail</a></h3>
+    <p>A self-evolving framework that turns jailbreak papers into reproducible evaluation pipelines for text-to-image models.</p>
+    <a class="research-item__link" href="/publication/2026-06-23-PixJail">Read more <span aria-hidden="true">→</span></a>
+  </article>
+
+  <article class="research-item">
+    <p class="research-item__meta">Image protection · 2026</p>
+    <h3><a href="/publication/2026-04-03-IPBench">IP-Bench</a></h3>
+    <p>A systematic benchmark for evaluating image-protection methods in image-to-video generation.</p>
+    <a class="research-item__link" href="/publication/2026-04-03-IPBench">Read more <span aria-hidden="true">→</span></a>
+  </article>
+
+  <article class="research-item">
+    <p class="research-item__meta">Steganography security · 2026</p>
+    <h3><a href="/publication/2026-05-04-Stego">Stego Battlefield</a></h3>
+    <p>An evaluation of image steganography attacks and steganalysis defenses under practical security scenarios.</p>
+    <a class="research-item__link" href="/publication/2026-05-04-Stego">Read more <span aria-hidden="true">→</span></a>
+  </article>
+</div>

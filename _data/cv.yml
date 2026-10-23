@@ -11,16 +11,41 @@
 - title: Education
   type: time_table
   contents:
-    - title: Undergraduate Student
+    - title: BSc in Artificial Intelligence
       institution: Hong Kong University of Science and Technology (Guangzhou)
-      year: Present
+      year: 2023.09 – 2027.06
       description:
-        - Research in AI safety, AI for safety, multimodal security, and image protection.
+        - "GPA: 3.41/4.3"
 
 - title: Research Interests
   type: list
   contents:
-    - AI for safety
-    - AI safety
-    - Image protection and steganalysis
-    - Multimodal security
+    - AI Security
+    - AI for Security
+    - Multimodal Safety
+    - Trustworthy AI
+    - Embodied AI
+
+- title: Publications and Research Experience
+  type: list
+  contents:
+    - "Towards Robust Semantic Segmentation in Multi-sensor Systems: A Survey and Benchmark — Under review; co-first author."
+    - "IP-Bench: Benchmark for Image Protection Methods in Image-to-Video Generation Scenarios — arXiv preprint."
+    - "PixJail: Self-Evolving Paper-to-Pipeline Reproduction for Text-to-Image Jailbreak Evaluation — Under review; co-first author."
+    - "Stego Battlefield: Evaluating Image Steganography Attacks and Steganalysis Defenses — arXiv preprint."
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Supervised by Prof. Xinlei He
+      year: 2025.07 – 2025.11
+      description:
+        - Research on trustworthy AI and multimodal safety.
+        - Hands-on experience with LLaMA fine-tuning and segmentation/detection using SAM and YOLO.
+
+- title: Competitions and Honors
+  type: list
+  contents:
+    - "WebRetriever Challenge — Ranked 16th out of 47; web agent navigation and multimodal extraction."
+    - "2025 Dean’s List — Recognition for scholastic achievement and good disciplinary standing."

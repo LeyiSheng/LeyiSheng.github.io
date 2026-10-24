@@ -68,3 +68,13 @@ latest_posts:
     <a class="research-item__link" href="/publication/2026-05-04-Stego">Read more <span aria-hidden="true">→</span></a>
   </article>
 </div>
+
+## Open-source projects
+
+### [Dreamer Agent](https://github.com/LeyiSheng/dreamer-agent)
+
+Offline Minecraft agent research built on pretrained world models, combining VPT skill-conditioned behavior cloning, calibrated rewards, imagination-based reinforcement learning, and world-model adaptation.
+
+### [TikTok Link Scraper](https://github.com/LeyiSheng/tiktok_link_scraper)
+
+A Playwright-based tool for collecting video links and metadata from Douyin, TikTok, and YouTube Shorts, with JSON output and optional video downloads via yt-dlp.
